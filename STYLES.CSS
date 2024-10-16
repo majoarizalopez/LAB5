@@ -82,3 +82,11 @@ margin-right: 5px;
 
 }
 
+.inline-block-element{
+
+display: inline-block;
+background-color: lightsalmon;
+padding: 10px;
+
+}
+
