@@ -16,3 +16,11 @@ color: aliceblue;
     color: aliceblue;
     
     }
+
+
+    .padded-text{
+
+        padding: 20px;
+        background-color: lightslategray;
+        
+        }
