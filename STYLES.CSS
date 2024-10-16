@@ -63,3 +63,13 @@ padding: 10px;
 
 }
 
+.inline-element{
+
+display: inline;
+padding: 10px;
+background-color: blueviolet;
+color: antiquewhite;
+margin-right: 5px;
+
+}
+
