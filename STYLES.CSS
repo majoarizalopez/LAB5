@@ -18,9 +18,17 @@ color: aliceblue;
     }
 
 
-    .padded-text{
+.padded-text{
 
         padding: 20px;
         background-color: lightslategray;
         
         }
+
+.custom-padding{
+
+padding: 10px 20px;
+background-color:lightpink ; 
+
+}
+
