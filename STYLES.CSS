@@ -108,3 +108,11 @@ visibility: hidden;
 
 }
 
+.transparent-box{
+
+background-color: blue;
+opacity: 0.5;
+padding: 20px;
+color: white;
+}
+
